@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Clarity+City:wght@400..700&display=swap');
+
+body {
+    background-color: #EFFFFF;
+    font-family: 'Clarity City', sans-serif;
+}
+
+.navbar-custom {
+    background-color: #328a7a; 
+}
