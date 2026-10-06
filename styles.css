@@ -5,6 +5,20 @@ body {
     font-family: 'Clarity City', sans-serif;
 }
 
+a {
+    text-decoration: none;
+    color:#14252F;
+}
+
+.h2 {
+    background-color: #328a7a;
+    text-align: center;
+}
+
 .navbar-custom {
     background-color: #328a7a; 
+}
+
+.footer-custom {
+    background-color: #14252F;
 }
