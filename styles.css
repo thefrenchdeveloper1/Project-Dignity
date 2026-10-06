@@ -15,6 +15,26 @@ a {
     text-align: center;
 }
 
+.h4 {
+    background-color: #65B3A5;
+    text-align: center;
+}
+
+.custom-card {
+    background-color: #65B3A5;
+}
+
+/* Image sizing styling */
+.card-img {
+    width: 500px;       /* Adjust size as needed */
+    height: auto;
+    object-fit: cover;
+}
+
+.h5 {
+    text-align: left;    /* Left-align text works better alongside an image */
+}
+
 .navbar-custom {
     background-color: #328a7a; 
 }
